@@ -11,8 +11,9 @@ To prevent cheating, all generated scores are set to zero.
 * Power - Power is maintained upon death. (if > 16)
 
 ## Usage
-patch inputfile outputfile
+```patch inputfile outputfile```
+
 Ex:
-patch th07.exe th07_infinite_lives.exe
+```patch th07.exe th07_infinite_lives.exe```
 
 Back up game and score files before use.
